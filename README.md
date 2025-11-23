@@ -1,4 +1,4 @@
-# 🚀 ONAS Framework v1
+#  ONAS Framework v1
 
 [![npm version](https://img.shields.io/npm/v/onas-framework?color=blue)](https://www.npmjs.com/package/onas-framework)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -9,7 +9,7 @@ Designed for beginners and scalable for advanced developers, this is **v1** — 
 
 ---
 
-## 💡 Features
+##  Features
 
 - Generate **Express + EJS** projects instantly.  
 - Prebuilt **professional, stylish homepage** with gradients, buttons, and responsive layout.  
@@ -20,7 +20,7 @@ Designed for beginners and scalable for advanced developers, this is **v1** — 
 
 ---
 
-## ⚡ Installation
+## Installation
 
 ### Global Installation via npm
 
